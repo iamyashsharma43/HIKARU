@@ -4,7 +4,7 @@
 
 
 
-Hikari is a minimal web application designed for users to create, manage, and share their personal stories and blogs with ease.
+Hikaru is a minimal web application designed for users to create, manage, and share their personal stories and blogs with ease.
 
 ## Table of Contents
 
@@ -56,11 +56,11 @@ This project has not only expanded my technical skills but also strengthened my 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Rohit-Singh-Rawat/Hikari.git
+    git clone https://github.com/iamyashsharma43/HIKARU.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Hikari
+    cd HIKARU
     ```
 3. Install dependencies for both client and server:
     ```bash
