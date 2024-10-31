@@ -1,4 +1,4 @@
-# Hikari - Illuminate Your Story
+# Hikaru - Illuminate Your Story
 <img src="https://github.com/iamyashsharma43/HIKARU/blob/main/client/public/Hikari.svg" alt="Hikari" style="width:400px;">
 
 
